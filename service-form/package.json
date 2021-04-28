@@ -1,0 +1,16 @@
+{
+  "name": "form-webtask",
+  "version": "1.0.0",
+  "description": "Servicio para enviar datos de un formulario a un correo eléctronico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "wsernalaverde",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mailgun-js": "^0.22.0"
+  }
+}
