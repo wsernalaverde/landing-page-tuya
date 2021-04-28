@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () =>{
     const button = document.getElementById('sendData')
 
     fetch('https://form-ldtuya.herokuapp.com/')
-        .then(response => response.json())
+        .then(response => response.text())
         .then(data => console.log(data));
 
     form.addEventListener('submit', (event) =>{
