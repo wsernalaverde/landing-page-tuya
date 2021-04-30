@@ -15,4 +15,4 @@ El formulario en este preview esta consumiendo el servicio que ha sido alojado e
 ## Servicio Formulario
 
 - [Source](./service-form)
-- [Readme servicio](./service-form/readme-service.md)
+- [Readme servicio](./service-form/readme.md)
